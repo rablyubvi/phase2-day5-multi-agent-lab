@@ -1,0 +1,13 @@
+{"name": "multi-agent.research", "attributes": {}, "duration_seconds": 9.8517096999567, "provider": "langsmith"}
+{"name": "multi-agent.analysis", "attributes": {}, "duration_seconds": 9.31622039998183, "provider": "langsmith"}
+{"name": "multi-agent.writer", "attributes": {}, "duration_seconds": 9.57691220002016, "provider": "langsmith"}
+{"name": "multi-agent.run", "attributes": {"query": "Research GraphRAG state-of-the-art and write a 500-word summary", "audience": "technical learners"}, "duration_seconds": 28.751931999984663, "provider": "langsmith"}
+{"name": "single-agent.run", "attributes": {"query": "Research GraphRAG state-of-the-art and write a 500-word summary", "audience": "technical learners"}, "duration_seconds": 10.255804700020235, "provider": "langsmith"}
+{"name": "multi-agent.research", "attributes": {}, "duration_seconds": 9.828680699982215, "provider": "langsmith"}
+{"name": "multi-agent.analysis", "attributes": {}, "duration_seconds": 10.24024620000273, "provider": "langsmith"}
+{"name": "multi-agent.writer", "attributes": {}, "duration_seconds": 9.96869389998028, "provider": "langsmith"}
+{"name": "multi-agent.run", "attributes": {"query": "Research GraphRAG state-of-the-art and write a 500-word summary", "audience": "technical learners"}, "duration_seconds": 32.78464560001157, "provider": "langsmith"}
+{"name": "multi-agent.research", "attributes": {}, "duration_seconds": 8.49228679999942, "provider": "langsmith"}
+{"name": "multi-agent.analysis", "attributes": {}, "duration_seconds": 12.25856509996811, "provider": "langsmith"}
+{"name": "multi-agent.writer", "attributes": {}, "duration_seconds": 14.250505900010467, "provider": "langsmith"}
+{"name": "multi-agent.run", "attributes": {"query": "Research GraphRAG state-of-the-art and write a 500-word summary", "audience": "technical learners"}, "duration_seconds": 36.76023089996306, "provider": "langsmith"}
